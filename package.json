@@ -1,0 +1,10 @@
+{
+  "name": "hello-minions",
+  "version": "1.0.0",
+  "description": "Hello, minions!",
+  "main": "index.js",
+  "repository": "https://github.com/henry40408/hello-minions",
+  "author": "Heng-Yi Wu <@henry40408>",
+  "license": "MIT",
+  "private": true
+}
